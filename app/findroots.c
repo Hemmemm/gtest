@@ -4,7 +4,7 @@ Roots findRoots(double a, double b, double c)
 {
     double dis = b * b - 4 * a * c;
     Roots r;
-    if (dis < 0)
+    if (dis < 0 || a == 0)
     {
         r.found = 0;
     }

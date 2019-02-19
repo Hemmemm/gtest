@@ -41,4 +41,12 @@ TEST(rootstest, disLess0)
     ASSERT_EQ(check.found, res.found);
 }
 
+TEST(rootstest, aEq0)
+{
+    Roots check;
+    check.found = 0;
+    Roots res = findRoots(0.0, 5.0, 1.0);
+    ASSERT_EQ(check.found, res.found);
+}
+
 #endif // ROOTS_TEST_H
