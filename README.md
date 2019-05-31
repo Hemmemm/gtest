@@ -1,3 +1,5 @@
-[![Build Status](https://travis-ci.org/seekerk/gtest.svg?branch=master)](https://travis-ci.org/seekerk/gtest)
-[![Coverage Status](https://coveralls.io/repos/seekerk/gtest/badge.svg?branch=master)](https://coveralls.io/github/seekerk/gtest?branch=master)
+[![Build Status](https://travis-ci.org/Hemmemm/gtest.svg?branch=master)](https://travis-ci.org/Hemmemm/gtest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Hemmemm_gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=Hemmemm_gtest)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Hemmemm_gtest&metric=code_smells)](https://sonarcloud.io/dashboard?id=Hemmemm_gtest)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Hemmemm_gtest&metric=bugs)](https://sonarcloud.io/dashboard?id=Hemmemm_gtest)
+[![Coverage Status](https://coveralls.io/repos/github/Hemmemm/gtest/badge.svg?branch=master)](https://coveralls.io/github/Hemmemm/gtest?branch=master)
